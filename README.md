@@ -1,4 +1,4 @@
-# MealsMobileApp
+# Recipe App using React Native
 
 A meals app is a digital platform that provides users with a comprehensive range of meal options, recipes, and cooking tips. The app typically includes several screens such as Categories, Meals Detail, Ingredients, Steps to Prepare, and Favorites.
 
